@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Asal sayı kontrolü/1.0.0": {
+        "runtime": {
+          "Asal sayı kontrolü.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Asal sayı kontrolü/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

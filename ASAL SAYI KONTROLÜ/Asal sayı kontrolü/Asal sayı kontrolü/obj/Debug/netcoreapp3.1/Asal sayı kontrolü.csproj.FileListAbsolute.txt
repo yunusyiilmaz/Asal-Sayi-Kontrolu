@@ -1,0 +1,14 @@
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\ASAL SAYI KONTROLÜ\Asal sayı kontrolü\Asal sayı kontrolü\bin\Debug\netcoreapp3.1\Asal sayı kontrolü.exe
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\ASAL SAYI KONTROLÜ\Asal sayı kontrolü\Asal sayı kontrolü\bin\Debug\netcoreapp3.1\Asal sayı kontrolü.deps.json
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\ASAL SAYI KONTROLÜ\Asal sayı kontrolü\Asal sayı kontrolü\bin\Debug\netcoreapp3.1\Asal sayı kontrolü.runtimeconfig.json
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\ASAL SAYI KONTROLÜ\Asal sayı kontrolü\Asal sayı kontrolü\bin\Debug\netcoreapp3.1\Asal sayı kontrolü.runtimeconfig.dev.json
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\ASAL SAYI KONTROLÜ\Asal sayı kontrolü\Asal sayı kontrolü\bin\Debug\netcoreapp3.1\Asal sayı kontrolü.dll
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\ASAL SAYI KONTROLÜ\Asal sayı kontrolü\Asal sayı kontrolü\bin\Debug\netcoreapp3.1\Asal sayı kontrolü.pdb
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\ASAL SAYI KONTROLÜ\Asal sayı kontrolü\Asal sayı kontrolü\obj\Debug\netcoreapp3.1\Asal sayı kontrolü.csproj.AssemblyReference.cache
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\ASAL SAYI KONTROLÜ\Asal sayı kontrolü\Asal sayı kontrolü\obj\Debug\netcoreapp3.1\Asal sayı kontrolü.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\ASAL SAYI KONTROLÜ\Asal sayı kontrolü\Asal sayı kontrolü\obj\Debug\netcoreapp3.1\Asal sayı kontrolü.AssemblyInfoInputs.cache
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\ASAL SAYI KONTROLÜ\Asal sayı kontrolü\Asal sayı kontrolü\obj\Debug\netcoreapp3.1\Asal sayı kontrolü.AssemblyInfo.cs
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\ASAL SAYI KONTROLÜ\Asal sayı kontrolü\Asal sayı kontrolü\obj\Debug\netcoreapp3.1\Asal sayı kontrolü.csproj.CoreCompileInputs.cache
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\ASAL SAYI KONTROLÜ\Asal sayı kontrolü\Asal sayı kontrolü\obj\Debug\netcoreapp3.1\Asal sayı kontrolü.dll
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\ASAL SAYI KONTROLÜ\Asal sayı kontrolü\Asal sayı kontrolü\obj\Debug\netcoreapp3.1\Asal sayı kontrolü.pdb
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\ASAL SAYI KONTROLÜ\Asal sayı kontrolü\Asal sayı kontrolü\obj\Debug\netcoreapp3.1\Asal sayı kontrolü.genruntimeconfig.cache
